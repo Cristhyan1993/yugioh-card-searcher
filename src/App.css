@@ -11,8 +11,8 @@ body {
 
 .App {
   text-align: center;
-  background-image: url(../public/wallpaper.png);
   background-repeat: no-repeat;
+  background-image: url(../public/wallpaper.png);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
